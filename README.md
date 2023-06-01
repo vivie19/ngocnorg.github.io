@@ -1,11 +1,6 @@
 ## 中国民间抗疫发声平台
 
-网站：  
-- https://voice-against-covid19.github.io (主)
-- https://voice-against-covid19.gitlab.io 
 
-GitHub：<https://github.com/voice-against-covid19/voice-against-covid19.github.io>
-GitLab：<https://gitlab.com/voice-against-covid19/voice-against-covid19.github.io>
 
 模版来自： [terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)
 
@@ -26,8 +21,8 @@ gem install jekyll-paginate
 gem install jekyll-seo-tag
 gem install jekyll-sitemap
 gem install webrick
-git clone --depth=1 https://github.com/voice-against-covid19/voice-against-covid19.github.io.git
-cd voice-against-covid19.github.io
+git clone --depth=1 https://github.com/ngocnorg.github.io.git
+cd ngocnorg.github.io
 jekyll serve
 ```
 
